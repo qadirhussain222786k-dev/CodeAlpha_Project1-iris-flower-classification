@@ -1,6 +1,6 @@
 # Iris Flower Classification (Machine Learning)
 
-**AI Internship Training Program - Machine Learning Project**
+**Data Science Internship - Machine Learning Project**
 
 **Intern:** Qadir Hussain
 **Intern Batch:** 2026 AI Internship Program
